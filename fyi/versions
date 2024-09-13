@@ -1,0 +1,30 @@
+File: semgrep-grammars/src/tree-sitter-sml/LICENSE
+Git repo name: tree-sitter-sml
+Latest commit in repo: 340dbd3a3b72d5e71ecd0853add2c482cb914275
+Last change in file:
+  commit 37e3059f536aa020cc47b74c58ca82568aeed7b9
+  Author: Matthew Fluet <Matthew.Fluet@gmail.com>
+  Date:   Wed Jul 27 12:25:47 2022 -0400
+  
+      Initial commit
+---
+File: semgrep-grammars/src/tree-sitter-sml/grammar.js
+Git repo name: tree-sitter-sml
+Latest commit in repo: 340dbd3a3b72d5e71ecd0853add2c482cb914275
+Last change in file:
+  commit 340dbd3a3b72d5e71ecd0853add2c482cb914275
+  Author: Matthew Fluet <matthew.fluet@gmail.com>
+  Date:   Fri Jul 29 10:41:37 2022 -0400
+  
+      Accept non-parenthesized infix `fun` declaration
+---
+File: semgrep-grammars/src/semgrep-sml/grammar.js
+Git repo name: ocaml-tree-sitter-semgrep
+Latest commit in repo: 62c59803ce966ac00210b5ed8aa163a926f7eaad
+Last change in file:
+  commit 245665eaf6e32a5ac616d7972570e13c473ef5ee
+  Author: brandonspark <wu.brandonj@gmail.com>
+  Date:   Fri Mar 17 09:14:55 2023 -0700
+  
+      improve sml, change projects
+---
